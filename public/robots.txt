@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://anzhkkklmmmsss.github.io/hugo-site-academic/sitemap.xml
